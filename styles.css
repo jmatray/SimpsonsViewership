@@ -18,6 +18,7 @@ path {
 
 h1 {
     color: white;
+    margin: 10px;
 }
 
 .container {
@@ -25,9 +26,10 @@ h1 {
 }
 
 img {
-   width: 300px;
-   height: 400px;;
-}
+    width: 300px;
+    height: 400px;
+    margin-left: 50px;
+ }
 
 
 .axis path,
