@@ -1,2 +1,2 @@
 # SimpsonsViewership
-Average Simpson's viewership by season
+A simple interactive vizualization of average Simpson's viewership by season
