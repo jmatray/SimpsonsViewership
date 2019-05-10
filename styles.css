@@ -1,0 +1,52 @@
+body { 
+    font: 12px Arial;
+    vertical-align: top;
+    background-color: #fed90f;
+}
+
+path {
+    stroke-width: 2;
+    fill: none;
+
+}
+
+.title {
+    background-color: steelblue;
+    width: 1000px;
+    font-style: italic;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    display: flex;
+}
+
+img {
+   width: 300px;
+   height: 400px;;
+}
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 120px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
